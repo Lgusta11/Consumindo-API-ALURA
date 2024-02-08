@@ -12,3 +12,4 @@ C:\Users\ALUNO\OneDrive\Área de Trabalho\Curso4Cs\obj\Debug\net8.0\refint\Curso
 C:\Users\ALUNO\OneDrive\Área de Trabalho\Curso4Cs\obj\Debug\net8.0\Curso4Cs.pdb
 C:\Users\ALUNO\OneDrive\Área de Trabalho\Curso4Cs\obj\Debug\net8.0\Curso4Cs.genruntimeconfig.cache
 C:\Users\ALUNO\OneDrive\Área de Trabalho\Curso4Cs\obj\Debug\net8.0\ref\Curso4Cs.dll
+C:\Users\ALUNO\OneDrive\Área de Trabalho\Curso4Cs\obj\Debug\net8.0\Curso4Cs.sourcelink.json

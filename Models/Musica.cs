@@ -17,7 +17,7 @@ internal class Musica
   {
     Console.WriteLine($"Artista: {Artista}");
     Console.WriteLine($"Nome: {Nome}");
-    Console.WriteLine($"Duracao em segundos: {Duracao / 1000}");
+    Console.WriteLine($"Duracao: {Duracao / 1000} Segundos");
     Console.WriteLine($"Genero: {Genero}");
   }
 
