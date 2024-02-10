@@ -13,3 +13,18 @@ C:\Users\ALUNO\OneDrive\Área de Trabalho\Curso4Cs\obj\Debug\net8.0\Curso4Cs.pdb
 C:\Users\ALUNO\OneDrive\Área de Trabalho\Curso4Cs\obj\Debug\net8.0\Curso4Cs.genruntimeconfig.cache
 C:\Users\ALUNO\OneDrive\Área de Trabalho\Curso4Cs\obj\Debug\net8.0\ref\Curso4Cs.dll
 C:\Users\ALUNO\OneDrive\Área de Trabalho\Curso4Cs\obj\Debug\net8.0\Curso4Cs.sourcelink.json
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\Curso4Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\Curso4Cs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\Curso4Cs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\Curso4Cs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\Curso4Cs.sourcelink.json
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\Curso4Cs.dll
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\refint\Curso4Cs.dll
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\Curso4Cs.pdb
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\bin\Debug\net8.0\Curso4Cs.exe
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\bin\Debug\net8.0\Curso4Cs.deps.json
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\bin\Debug\net8.0\Curso4Cs.runtimeconfig.json
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\bin\Debug\net8.0\Curso4Cs.dll
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\bin\Debug\net8.0\Curso4Cs.pdb
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\Curso4Cs.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Consumindo-API-ALURA\obj\Debug\net8.0\ref\Curso4Cs.dll
